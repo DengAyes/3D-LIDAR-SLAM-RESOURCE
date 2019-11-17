@@ -53,3 +53,7 @@ I will collect the 3d_lidar_SLAM open resource, which include VO, Mapping and so
 
   **loam_velodyne**: https://github.com/laboshinl/loam_velodyne
   
+# 2D lidar Mapping Resource (like as rplidar A1-3, Mapper and so on...)
+
+The 2D lidar slam could be dvided into **Filter SLAM** and **Graph-based SLAM**
+
