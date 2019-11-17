@@ -57,3 +57,20 @@ I will collect the 3d_lidar_SLAM open resource, which include VO, Mapping and so
 
 The 2D lidar slam could be dvided into **Filter SLAM** and **Graph-based SLAM**
 
+1. Based ArUco, get the camera pose to achieve EKF-SLAM
+
+  **EKF-SLAM**: https://github.com/ydsf16/aruco_ekf_slam
+
+2. FAST-SLAM
+
+  **Fast-SLAM:** https://github.com/JoachimClemens/Evidential-FastSLAM
+
+3. GMapping
+
+ **Gmapping**: https://github.com/ros-perception/slam_gmapping
+ 
+4. Hector-SLAM
+
+5. KartoSLAM/ LagoSLAM/ LagoSLAM /Cartographer
+
+More information can visit this website: https://zhuanlan.zhihu.com/p/78334136.
